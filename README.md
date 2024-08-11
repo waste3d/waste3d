@@ -1,19 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src = "https://ltdfoto.ru/images/2024/08/11/photo_2024-08-10_22-16-16-round-1-photoaidcom-cropped.png" alt = ""/>
+</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&width=435&lines=Hi%2C+i+am+waste3d" alt="Typing SVG" /></a>
   <div id="badges">
   <a href="https://t.me/waste3d">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=waste3d&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ### :woman_technologist: About Me:
 I am a DevOps | Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
